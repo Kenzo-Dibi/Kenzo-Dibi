@@ -1,4 +1,4 @@
-<h1>Bonjour je m'appelle Kenzo.</h1>
+<h1>Bonjour, je m'appelle Kenzo.</h1>
 <a href="https://github.com/Kenzo-Dibi">Programmer</a> &
 <a href="https://www.linkedin.com/in/kenzo-dibi-a35360298/">IT Professional</a>
 
