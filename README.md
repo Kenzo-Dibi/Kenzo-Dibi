@@ -3,7 +3,9 @@
 <a href="https://www.linkedin.com/in/kenzo-dibi-a35360298/">IT Professional</a>
 
 <h2> 🖥️ IT projects:</h2>
+
 - <b>⛔ WIP ⛔</b>
+
 <h2> 💻 Software Development Projects:</h2>
 
 - <b>Python</b>
@@ -11,7 +13,10 @@
 - <b>C</b>
   - [Connect 4](https://github.com/Kenzo-Dibi/Projets-C/tree/main/projet4)
 
-<!--<h2> Cybersecurity projects</h2>-->
+<h2>🕵️ Cybersecurity Projects</h2>
+
+  - <b>Ransomware WIP</b>
+  
 <h2> 📱Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/kenzo-dibi-a35360298/">
